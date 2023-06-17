@@ -3,6 +3,7 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /Library/
+/Library/PackageCache/com.unity.burst@1.8.4/.Runtime/libburst-llvm-14.dylib
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
